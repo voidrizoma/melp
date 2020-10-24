@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/melp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/melp/static/js/main.86312f51.chunk.js",
+    "main.js.map": "/melp/static/js/main.86312f51.chunk.js.map",
+    "runtime-main.js": "/melp/static/js/runtime-main.139333d8.js",
+    "runtime-main.js.map": "/melp/static/js/runtime-main.139333d8.js.map",
+    "static/js/2.3f230b86.chunk.js": "/melp/static/js/2.3f230b86.chunk.js",
+    "static/js/2.3f230b86.chunk.js.map": "/melp/static/js/2.3f230b86.chunk.js.map",
+    "static/js/3.911171d7.chunk.js": "/melp/static/js/3.911171d7.chunk.js",
+    "static/js/3.911171d7.chunk.js.map": "/melp/static/js/3.911171d7.chunk.js.map",
+    "index.html": "/melp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/melp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3f230b86.chunk.js.LICENSE.txt": "/melp/static/js/2.3f230b86.chunk.js.LICENSE.txt",
+    "static/media/gourmet-food-parlour.f815bafe.jpg": "/melp/static/media/gourmet-food-parlour.f815bafe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.139333d8.js",
+    "static/js/2.3f230b86.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.86312f51.chunk.js"
+  ]
+}
