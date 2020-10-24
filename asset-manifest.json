@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MELP/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/MELP/static/js/main.0d9060df.chunk.js",
-    "main.js.map": "/MELP/static/js/main.0d9060df.chunk.js.map",
-    "runtime-main.js": "/MELP/static/js/runtime-main.151e76f2.js",
-    "runtime-main.js.map": "/MELP/static/js/runtime-main.151e76f2.js.map",
-    "static/js/2.e8b80efc.chunk.js": "/MELP/static/js/2.e8b80efc.chunk.js",
-    "static/js/2.e8b80efc.chunk.js.map": "/MELP/static/js/2.e8b80efc.chunk.js.map",
-    "static/js/3.911171d7.chunk.js": "/MELP/static/js/3.911171d7.chunk.js",
-    "static/js/3.911171d7.chunk.js.map": "/MELP/static/js/3.911171d7.chunk.js.map",
-    "index.html": "/MELP/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/MELP/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.e8b80efc.chunk.js.LICENSE.txt": "/MELP/static/js/2.e8b80efc.chunk.js.LICENSE.txt",
-    "static/media/gourmet-food-parlour.f815bafe.jpg": "/MELP/static/media/gourmet-food-parlour.f815bafe.jpg"
+    "main.css": "/melp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/melp/static/js/main.0d9060df.chunk.js",
+    "main.js.map": "/melp/static/js/main.0d9060df.chunk.js.map",
+    "runtime-main.js": "/melp/static/js/runtime-main.139333d8.js",
+    "runtime-main.js.map": "/melp/static/js/runtime-main.139333d8.js.map",
+    "static/js/2.3f230b86.chunk.js": "/melp/static/js/2.3f230b86.chunk.js",
+    "static/js/2.3f230b86.chunk.js.map": "/melp/static/js/2.3f230b86.chunk.js.map",
+    "static/js/3.911171d7.chunk.js": "/melp/static/js/3.911171d7.chunk.js",
+    "static/js/3.911171d7.chunk.js.map": "/melp/static/js/3.911171d7.chunk.js.map",
+    "index.html": "/melp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/melp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3f230b86.chunk.js.LICENSE.txt": "/melp/static/js/2.3f230b86.chunk.js.LICENSE.txt",
+    "static/media/gourmet-food-parlour.f815bafe.jpg": "/melp/static/media/gourmet-food-parlour.f815bafe.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.151e76f2.js",
-    "static/js/2.e8b80efc.chunk.js",
+    "static/js/runtime-main.139333d8.js",
+    "static/js/2.3f230b86.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.0d9060df.chunk.js"
   ]
