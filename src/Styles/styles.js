@@ -5,11 +5,11 @@ export const Card = styled.div`
   flex-direction:column;
   justify-content: center;
   align-items: center;
-  background-color:#00ca93;
+  background-color:#fbb311;
   margin: 2%;
   width:45%;
-  heigth:200px;
-  padding: 4% 8%;
+  padding:3%;
+  heigth:30vh;
   border-radius: 5px;
   transition: 0.3s;
   &:hover{
@@ -40,16 +40,17 @@ font-size: 15px;
 margin: 1em;
 padding: 0.25em 1em;
 border-radius: 3px;
-border: 2px solid  #00ca93;
+border: 2px solid  #fbb311;
 transition: 1s;
 &:hover{
-    background-color: #00ca93;
+    background-color: #fbb311;
 }
 `;
 
 export const CardWrapper = styled.div`
-  width: 100%;
+  width: 80%;
   display: flex;
+  margin: 0 auto;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
@@ -57,13 +58,19 @@ export const CardWrapper = styled.div`
 
 
 export const Wrapper = styled.div`
-  height: 75vh;
+  height: 70vh;
   overflow: scroll;
   margin: 0 auto;
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 `;
 
 export const Title = styled.h1`
   text-align: center;
+  color:white;
   font-size:50px;
   padding:2% 0%;
 `;
@@ -71,6 +78,7 @@ export const Title = styled.h1`
 export const Subtitle = styled.h1`
   text-align: center;
   font-size:30px;
+  color:white;
   padding:2% 0%;
 `;
 
