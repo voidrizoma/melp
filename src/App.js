@@ -7,7 +7,7 @@ import Container from "./Views/Container";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename={window.location.pathname || ''}>
         <Switch className="container">
           <Route exact path="/" component={Container} />
         </Switch>

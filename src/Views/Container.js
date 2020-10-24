@@ -13,7 +13,7 @@ const API =
   "https://recruiting-datasets.s3.us-east-2.amazonaws.com/data_melp.json";
 
 const sectionStyle = {
-  height: "30vh",
+  height: "40vh",
   backgroundImage: `url(${Image})`,
   backgroundSize: "cover",
   backgroundPosition: "center",

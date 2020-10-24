@@ -58,7 +58,7 @@ export const CardWrapper = styled.div`
 
 
 export const Wrapper = styled.div`
-  height: 70vh;
+  height: 60vh;
   overflow: scroll;
   margin: 0 auto;
   display: flex;
